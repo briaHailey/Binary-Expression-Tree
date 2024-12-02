@@ -1,1 +1,2 @@
 # Binary-Expression-Tree
+This program implements a binary expression tree and uses it to convert postfix expressions into infix expressions. BET is a class of a binary expression tree, which can take a postfix expression by building a tree with function (BET(const string& postfix)), and then output an infix expression or report errors whenever necessary with function (void printInfixExpression() const). 
